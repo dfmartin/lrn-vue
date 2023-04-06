@@ -1,1 +1,1 @@
-# lrn-vue
+# various projects learning various aspects of [Vue](https://vuejs.org)
